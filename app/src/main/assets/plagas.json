@@ -1,0 +1,137 @@
+[
+    {
+        "nombre_clase": "blind-beetle",
+        "nombre_comun": "Gallina ciega",
+        "nombre_cientifico": "Phyllophaga sp.",
+        "imagenes": ["gallina_ciega1", "gallina_ciega2", "gallina_ciega3"],
+        "descripcion": [
+            "La gallina ciega es una plaga que está formada por diversas especies del género Phyllophaga, familia Melonthidae y orden coleóptero.",
+            "Estos insectos reciben este nombre debido a que sus larvas son subterráneas y se alimentan de las raíces de las plantas."
+        ],
+        "control_cultural": [
+            "Eliminar restos del cultivo anterior.",
+            "Las maquinarias deben ser lavadas con agua a presión.",
+            "Exponer las larvas al sol y a depredadores como las aves.",
+            "Realizar una adecuada rotación de cultivos: maíz - frejol o soya.",
+            "Sembrar en épocas adecuadas después de las 2 primeras lluvias en invierno.",
+            "Controlar las malezas de manera oportuna y adecuada a los 15 y 30 días después de la siembra."
+        ],
+        "control_quimico": [
+            "Tratar con el insecticida Thiodicarb, en dosis de 8 a 10 cc x 1kg. de semilla.",
+            "Aplicar Clorpirifos, en dosis de 0.8 a 1 litro/ha. Cuando se tiene 5% de plantas afectadas."
+        ],
+        "control_etologico": ["Se utilizan trampas de luz blanca para la captura de los adultos"],
+        "fuente": "Instituto Nacional de Investigación Agropecuaria - INIAP",
+        "enlace": "https://eva.iniap.gob.ec/web2/maiz-duro/insectos-plagas-maiz-duro/#1552880684505-6a1b4f6c-5ea6"
+    },
+    {
+        "nombre_clase": "cutworm",
+        "nombre_comun": "Gusano trozador",
+        "nombre_cientifico": "Agrotis spp.; A. segetum, A. ipsilon",
+        "imagenes": ["gusano_trozador1", "gusano_trozador2", "gusano_trozador3"],
+        "descripcion": [
+            "El gusano trozador se considera una plaga compuesta por diversas especies del género Agrotis, específicamente las pertenecientes a la familia Noctuidae.",
+            "Estas larvas son conocidas por infestar plantas jóvenes, lo cual ocasiona un repentino marchitamiento de las hojas centrales y, en consecuencia, la muerte del resto de la planta.",
+            "El adulto es una mariposa nocturna de color café y de unos 3 cm de largo. La larva es de color gris y de aspecto cilíndrico"
+        ],
+        "control_cultural": [
+            "La preparación del suelo ayuda a destruir huevos, larvas y pupas, dejando otra parte expuesta al sol y a la acción depredadora de animales."
+        ],
+        "control_quimico": [
+            "El enemigo natural más conocido y eficaz para el control de mariposas y polillas es Bacillus thuringiensis var. kurstaki.",
+            "Tras superar los umbrales de daño, aplicar un piretroide en pulverización (lambda cihalotrin, etc.)",
+            "En producción ecológica, se puede utilizar azadiractin."
+        ],
+        "control_etologico": [],
+        "fuente": "Instituto Nacional de Investigación Agropecuaria - INIAP",
+        "enlace": "https://tecnologia.iniap.gob.ec/wp-content/uploads/2023/11/9agrotys.pdf"
+    },
+    {
+        "nombre_clase": "wireworm",
+        "nombre_comun": "Gusano de alambre, Barrenet o Doradilla",
+        "nombre_cientifico": "Agriotes sp",
+        "imagenes": ["gusano_alambre1", "gusano_alambre2", "gusano_alambre3"],
+        "descripcion": [
+            "El adulto de este insecto es un coleóptero semejante al comúnmente llamado “cucuyo”.",
+            "Esta plaga es conocida por ser una de las más frecuentes y dañinas en el cultivo del maíz.",
+            "Las larvas aparecen principalmente durante las primeras etapas del ciclo vegetativo del maíz, donde se alimentan de las raíces de las plantas jóvenes, causando daños significativos que pueden llevar a la marchitez de las plantas e incluso a su muerte."
+        ],
+        "control_cultural": [
+            "Una buena preparación del suelo con la finalidad de exponer a los gusanos, para ser devorados por aves y otros animales benéficos"
+        ],
+        "control_quimico": [
+            "Realizar un buen tratamiento de la semilla con imidacloprid en dosis de 136 g/30 libras de semilla, Thiodicarb 1 L/46 kg de semilla o 250 cc/25 lb de semilla."
+        ],
+        "control_etologico": [
+            "Para su manejo, en cultivos no muy grandes, se recomienda colocar trampas confeccionadas con ramas de plantas de papa cubiertas con un cartón"
+        ],
+        "fuente": "Instituto Nacional de Investigación Agropecuaria - INIAP",
+        "enlace": "https://tecnologia.iniap.gob.ec/wp-content/uploads/2023/11/gusanoalambre1.pdf"
+    },
+    {
+        "nombre_clase": "mole-cricket",
+        "nombre_comun": "Grillo topos, Grillo de tierra",
+        "nombre_cientifico": "Neocurtilla hexadactyla o Orthoptera: Grillotalpidae",
+        "imagenes": ["grillotopos1", "grillotopos2", "grillotopos3"],
+        "descripcion": [
+            "Estos insectos siguen un tipo de metamorfosis simple, que comprende las etapas de huevo, ninfa y adulto.",
+            "Los grillotopos son conocidos por atacar principalmente plántulas de 8 - 30 días de edad. Cortan o trozan las raíces y la parte basal del tallo, causando daños significativos.",
+            "Se presentan en suelos húmedos, pero una vez que se inundan los campos, migran hacia los bordes ya que no sobreviven en suelos inundados."
+        ],
+        "control_cultural": [
+            "Preparar bien el suelo sobre todo en lugares donde esta plaga es endémica",
+            "La eliminación de malezas y residuos de tallos y hojas de maíz u otras plantas evitan la presencia de este insecto en los cultivos"
+        ],
+        "control_quimico": [
+            "Si pasa el umbral establecido, incorporar algún insecticida granulado con el último pase de rastra, solamente en los focos o áreas afectadas. La aplicación en todo el campo es muy onerosa.",
+            "La semilla para la siembra debe ser tratada."
+        ],
+        "control_etologico": [
+            "Se han observado avispas que parasitan los adultos y ninfas y pájaros que los consumen."
+        ],
+        "fuente": "Instituto Nacional de Investigación Agripecuaria - INIAP",
+        "enlace": "https://tecnologia.iniap.gob.ec/wp-content/uploads/2023/11/grillotopo.pdf"
+    },
+    {
+        "nombre_clase": "worm-lepidoptera",
+        "cogollero": {
+            "nombre_comun": ["Gusano cogollero", "tierreros"],
+            "nombre_cientifico": ["Spodoptera frugiperda"],
+            "imagenes": ["cogollero1", "cogollero2", "cogollero3"],
+            "descripcion": [
+                "El gusano cogollero tiene el tipo de metamorfosis completa u holometabólica: huevo, larva, pupa y adulto.",
+                "En la mazorca, esta plaga se alimenta de los estigmas y posteriormente del grano, pudiendo incluso causar perforaciones en el tallo.",
+                "El ciclo de vida del gusano cogollero desde su oviposición hasta la emergencia del adulto es de 30 a 45 días, con un promedio de 35 días."
+            ],
+            "control_quimico": [
+                "Aplicar uno de los siguientes productos a la semilla: Thiodicarb en dosis 8 cc. X 1kg de semilla o Imidacloprid en dosis 3 cc. x 1kg",
+                "Aplicar uno de los siguientes productos en el follaje: Lambda-cyhalothrina 50cc/ha; Spinetoram 100cc/ha; Novaluron 30cc/ha"
+            ],
+            "fuente": "Instituto Nacional de Investigación Agripecuaria - INIAP",
+            "enlace": "https://eva.iniap.gob.ec/web2/wp-content/uploads/slider4/cogollero2-655x1024.jpeg"
+        },
+        "barrenador": {
+            "nombre_comun": ["Barrenador del tallo", "perforador"],
+            "nombre_cientifico": ["Diatraea saccharalis"],
+            "imagenes": ["barrenador1", "barrenador2", "barrenador3"],
+            "descripcion": [
+                "Se transporta de una planta a otra por ayuda del viento.",
+                "Perfora la planta creando túneles en los entrenudos afectando la absorción de agua y nutrientes.",
+                "Las poblaciones de esta plaga aumentan desde la siembra hasta la cosecha de maíz."
+            ],
+            "control_quimico": [
+                "Utilizar cebos combinación de arena más un insecticida",
+                "1 quintal de arena tratada sirve para 1 ha. de terreno",
+                "Por quintal de arena aplicar una de las siguientes opciones: Clorpirifos 100cc/ha; Cipermetrina 50cc/ha; Lambda-cyhalothrina 50c/ha. Aplicar la mezcla en el cogollo de plantas afectadas"
+            ],
+            "fuente": "Instituto Nacional de Investigación Agropecuaria - INIAP",
+            "enlace": "https://eva.iniap.gob.ec/web2/wp-content/uploads/slider4/barrenador2-874x1024.jpeg"
+        },
+        "control_cultural": [
+            "Realizar una adecuada rotación de cultivos: maíz - frejol o soya",
+            "Exponer las larvas y pupas al sol y a predadores naturales",
+            "Eliminar restos del cultivo anterior",
+            "Controlar de manera oportuna y adecuada"
+        ]
+    }
+]
